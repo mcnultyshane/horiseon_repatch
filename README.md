@@ -1,4 +1,8 @@
-# horiseon_repatch
+# Horiseon Repatch
+
+## Project Description
+
+## Installation
 
 ## HTML page patches
 
@@ -17,12 +21,20 @@ The CSS stylesheet had groups of css code that were repetitive for certain secti
 
 The 'div' tabs were corrected in CSS to the correct pathways that resulted from the update to the HTML semantic language.  
 
+## Usage
 
-## Git Commit Issues
+## Credits
 
-My original git commits messages refer to changes to the document on 5/25.  Those changes were ultimately removed on 5/26 after an error in my git pull was repaired in class.  Document was restarted on 5/26 and changes began a new, however still witnessing an error now on 5/26 during 'git add -A' that is prohibiting me from adding continued 'git commit -m' messages to continued progress.  Will troubleshoot with Leif on 5/27 am.  
+## License
+Non-applicable.
 
+## Badges
 
+## Features
+
+## How to Contribute
+
+## Tests
 ----------------------------------------------------------------------
 
 # <Your-Project-Title>
