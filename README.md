@@ -22,7 +22,7 @@ The CSS stylesheet had groups of css code that were repetitive for certain secti
 
 
 ## Installation
-
+Use any bowser to visit https://mcnultyshane.github.io/horiseon_repatch/ in order to view the project.
 
 ## Usage
   
