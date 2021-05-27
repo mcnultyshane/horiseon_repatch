@@ -22,7 +22,6 @@ The CSS stylesheet had groups of css code that were repetitive for certain secti
 The 'div' tabs were corrected in CSS to the correct pathways that resulted from the update to the HTML semantic language.  
 
 ## Usage
-
 ## Credits
 
 ## License
